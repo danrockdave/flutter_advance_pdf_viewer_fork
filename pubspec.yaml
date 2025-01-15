@@ -14,7 +14,7 @@ dependencies:
   path_provider: ^2.1.4
   rxdart: ^0.27.7
   numberpicker: ^2.1.2
-  flutter_advanced_networkimage: ^0.5.0
+  flutter_advanced_networkimage: ^0.7.0
 
 flutter:
   plugin:
